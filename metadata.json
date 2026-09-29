@@ -1,0 +1,6 @@
+{
+  "name": "Code Studio",
+  "description": "Powerful mobile code editor and IDE inspired by VS Code featuring syntax highlighting, multi-tab editor, file explorer, runner & terminal, and Git source control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
